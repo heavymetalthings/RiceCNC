@@ -46,3 +46,5 @@ echo 'deb [ signed-by=/usr/share/keyrings/vscodium-archive-keyring.gpg ] https:/
 sudo apt update && sudo apt install codium -y
 
 sudo apt install linuxcnc-uspace linuxcnc-uspace-dev -y
+
+sudo apt install lightdm -y
