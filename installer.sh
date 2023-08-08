@@ -1,9 +1,7 @@
 # setting the work directory in home 
-
 cd
 
 # installing the bare minimum (which is bloat for some people)
-
 apt install xorg screen build-essential neofetch btop nano -y
 
 # missing dependancies for dwm
@@ -18,7 +16,7 @@ git clone https://git.suckless.org/dwm
 git clone https://git.suckless.org/st
 git clone https://git.suckless.org/dmenu
 
-
+#compiling the 3 packages
 cd dwm
 make
 make clean install 
