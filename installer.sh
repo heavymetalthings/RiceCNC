@@ -8,4 +8,4 @@ mkdir dev
 cd dev
 git clone https://git.suckless.org/dwm
 git clone https://git.suckless.org/st
-
+git clone https://git.suckless.org/dmenu
