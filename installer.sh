@@ -4,7 +4,7 @@ cd ~
 
 # installing the bare minimum (which is bloat for some people)
 
-apt install xorg git screen build-essentials neofetch btop nano -y
+apt install xorg screen build-essentials neofetch btop nano -y
 
 # cloning dwm, st and 
 
