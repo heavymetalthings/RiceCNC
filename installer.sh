@@ -31,3 +31,6 @@ cd demenu
 make
 make clean install 
 cd ..
+
+cd 
+echo 'exec dwm' > .xinitrc
