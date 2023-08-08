@@ -1,3 +1,7 @@
+# setting the work directory in home 
+
+cd ~
+
 # installing the bare minimum (which is bloat for some people)
 
 apt install xorg git screen build-essentials neofetch btop nano -y
