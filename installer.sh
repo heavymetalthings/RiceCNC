@@ -22,11 +22,11 @@ make
 sudo make clean install 
 cd 
 
-cd dev
-cd st
-make
-sudo make clean install 
-cd 
+#cd dev
+#cd st
+#make
+#sudo make clean install 
+#cd 
 
 cd dev
 cd demenu
