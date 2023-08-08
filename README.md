@@ -11,4 +11,16 @@ The work is heavily inspired by this video on the DWM part
 
 https://www.youtube.com/watch?v=j2gIL6gdC8E
 
+## Backsory
+
+Around 2018, I bought a manual milling machine, didn't know much about linux, and actually kinda started with trying to install linuxcnc, on debian 12 and manually installing the RT kernel through mint.
+
+Horrible mistake was it for me as it was always failing.
+
+Today, the process is much more simple, since the RT kernel is installed as a dependancy of linuxCNC.
+
+Yet, XFCE has always been and unfortunately will always be ugly.
+
+Hence the choice of an even lighter DE : DWM
+
 ## Packages installed
