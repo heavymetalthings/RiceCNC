@@ -15,9 +15,9 @@ git clone https://git.suckless.org/st
 git clone https://git.suckless.org/dmenu
 
 # missing dependancies for dwm
-apt install libx11-dev 
-apt install libxft-dev 
-apt install libxinerama-dev
+apt install libx11-dev -y
+apt install libxft-dev -y
+apt install libxinerama-dev -y
 
 cd dwm
 make
