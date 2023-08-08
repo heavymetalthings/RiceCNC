@@ -19,7 +19,7 @@ git clone https://git.suckless.org/dmenu
 #compiling the 3 packages
 cd dwm
 make
-sudo make clean install 
+sudo make clean install
 cd 
 
 #cd dev
@@ -29,7 +29,7 @@ cd
 #cd 
 
 cd dev
-cd demenu
+cd dmenu
 make
 sudo make clean install 
 cd 
