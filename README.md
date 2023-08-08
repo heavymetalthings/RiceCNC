@@ -1,0 +1,2 @@
+# RiceCNC
+Linuxcnc Rice 
