@@ -56,3 +56,10 @@ Once this is done, we can install linuxCNC.
 
 # How to proceed
 
+First, download debian 12 :
+https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
+
+Flash it on a usb stick, using either :
+* Rufus
+* Balenaetcher
+if you are on windows
