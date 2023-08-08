@@ -6,18 +6,18 @@ cd
 
 apt install xorg screen build-essential neofetch btop nano -y
 
-# cloning dwm, st and 
+# missing dependancies for dwm
+apt install libx11-dev -y
+apt install libxft-dev -y
+apt install libxinerama-dev -y
 
+# cloning dwm, st and 
 mkdir dev 
 cd dev
 git clone https://git.suckless.org/dwm
 git clone https://git.suckless.org/st
 git clone https://git.suckless.org/dmenu
 
-# missing dependancies for dwm
-apt install libx11-dev -y
-apt install libxft-dev -y
-apt install libxinerama-dev -y
 
 cd dwm
 make
