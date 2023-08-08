@@ -2,12 +2,12 @@
 cd
 
 # installing the bare minimum (which is bloat for some people)
-apt install xorg screen build-essential neofetch btop nano -y
+sudo apt install xorg screen build-essential neofetch btop nano -y
 
 # missing dependancies for dwm
-apt install libx11-dev -y
-apt install libxft-dev -y
-apt install libxinerama-dev -y
+sudo apt install libx11-dev -y
+sudo apt install libxft-dev -y
+sudo apt install libxinerama-dev -y
 
 # cloning dwm, st and 
 mkdir dev 
