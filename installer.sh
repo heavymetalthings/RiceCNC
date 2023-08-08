@@ -20,13 +20,15 @@ git clone https://git.suckless.org/dmenu
 cd dwm
 make
 sudo make clean install 
-cd ..
+cd 
 
+cd dev
 cd st
 make
 sudo make clean install 
-cd ..
+cd 
 
+cd dev
 cd demenu
 make
 sudo make clean install 
