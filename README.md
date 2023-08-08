@@ -24,3 +24,22 @@ Yet, XFCE has always been and unfortunately will always be ugly.
 Hence the choice of an even lighter DE : DWM
 
 ## Packages installed
+
+During the installation process : 
+
+ONLY the standard system utilities, no desktop environment !
+
+After the installation process, the script will install :
+
+* xorg
+* git
+* screen
+* build-essentials
+
+Then it will create 3 different directories :
+
+* dev
+*
+*
+
+And clone the corresponding repos from the suckless.org community
