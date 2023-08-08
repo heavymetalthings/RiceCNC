@@ -32,7 +32,6 @@ cd dev
 cd demenu
 make
 sudo make clean install 
-cd ..
-
 cd 
+
 echo 'exec dwm' > .xinitrc
