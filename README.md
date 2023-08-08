@@ -44,4 +44,12 @@ Then get into it and clone the interesting repos from the suckless.org community
 
 * dwm
 * st
-* 
+* dmenu
+
+The script will then compile every one of them after installing the missing dependancies :
+
+*
+*
+*
+
+Once this is done, we can install linuxCNC.
