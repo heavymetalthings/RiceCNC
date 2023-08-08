@@ -53,3 +53,6 @@ The script will then compile every one of them after installing the missing depe
 *
 
 Once this is done, we can install linuxCNC.
+
+# How to proceed
+
