@@ -36,10 +36,12 @@ After the installation process, the script will install :
 * screen
 * build-essentials
 
-Then it will create 3 different directories :
+Then it will create the working directory :
 
 * dev
-*
-*
 
-And clone the corresponding repos from the suckless.org community
+Then get into it and clone the interesting repos from the suckless.org community :
+
+* dwm
+* st
+* 
