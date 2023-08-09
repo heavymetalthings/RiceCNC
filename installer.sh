@@ -34,7 +34,7 @@ make
 sudo make clean install 
 cd 
 
-sudo echo 'exec dwm' > .xinitrc
+# sudo echo 'exec dwm' > .xinitrc
 
 wget -qO - https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/raw/master/pub.gpg \
     | gpg --dearmor \
