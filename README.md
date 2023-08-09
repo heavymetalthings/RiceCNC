@@ -85,6 +85,8 @@ Leave the domain name blank :
 
 ![image7](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-01.png)
 
+Don't put any root password, it is not of any use in this context :
+
 ![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
 
 ![image9](
