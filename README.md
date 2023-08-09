@@ -14,7 +14,7 @@ The work is heavily inspired by this video on the DWM part
 
 https://www.youtube.com/watch?v=j2gIL6gdC8E
 
-## Backsory
+## Backsory :suspect:
 
 Around 2018, I bought a manual milling machine, didn't know much about linux, and actually kinda started with trying to install linuxcnc, on debian 12 and manually installing the RT kernel through mint.
 
