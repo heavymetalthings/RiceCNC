@@ -51,6 +51,13 @@ sudo apt install linuxcnc-uspace linuxcnc-uspace-dev -y
 
 sudo apt install lightdm -y
 
+#remove the default xorg session and replace it with the dwm session file
+#cd /usr/share/xsessions/
+#sudo rm -r lightdm-xsession.desktop
+cd 
+cd RiceCNC/
+sudo cp lightdm-xsession.desktop /usr/share/xsessions/
+
 #install brave
 sudo apt install curl -y
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-nightly-archive-keyring.gpg https://brave-browser-apt-nightly.s3.brave.com/brave-browser-nightly-archive-keyring.gpg
@@ -61,10 +68,6 @@ sudo apt update -y
 
 sudo apt install brave-browser-nightly -y
 
-#remove the default xorg session and replace it with the dwm session file
-#cd /usr/share/xsessions/
-#sudo rm -r lightdm-xsession.desktop
 
-cd 
-cd RiceCNC/
-sudo cp lightdm-xsession.desktop /usr/share/xsessions/
+
+
