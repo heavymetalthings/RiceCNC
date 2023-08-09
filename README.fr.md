@@ -15,3 +15,6 @@ L'environnement de bureau utilisé est DWM.
 ## Programmes installés
 
 ## Installation
+
+Premièrement, téléchargez l'ISO de debian 12 : https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
+
