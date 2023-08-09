@@ -55,7 +55,7 @@ sudo apt install lightdm -y
 #cd /usr/share/xsessions/
 #sudo rm -r lightdm-xsession.desktop
 ls
-cd
+cd ..
 ls
 cd RiceCNC/
 sudo cp lightdm-xsession.desktop /usr/share/xsessions/
