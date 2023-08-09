@@ -83,7 +83,7 @@ cd /home
 ls
 cd */
 ls
-nomUtilisateur=$PWD
+nomUtilisateur=${PWD##*/} 
 
 echo $nomUtilisateur
 
