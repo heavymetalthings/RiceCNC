@@ -79,7 +79,7 @@ cd /etc/lightdm/
 sudo sed -i 's/# autologin-user-timeout = Number of seconds to wait before loading default user/autologin-user-timeout = 0/g' lightdm.conf
 
 cd ..
-cd home
+cd /home
 cd */
 nomUtilisateur="${PWD##*/}"
 echo nomUtilisateur
