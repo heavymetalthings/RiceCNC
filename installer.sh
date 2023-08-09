@@ -80,7 +80,9 @@ sudo sed -i 's/# autologin-user-timeout = Number of seconds to wait before loadi
 
 cd ..
 cd /home
+ls
 cd */
+ls
 nomUtilisateur="${PWD##*/}"
 echo nomUtilisateur
 
