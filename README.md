@@ -39,25 +39,13 @@ After the installation process, the script will install :
 * screen
 * build-essentials
 
-Then it will create the working directory :
-
-* dev
-
-Then get into it and clone the interesting repos from the suckless.org community :
-
 * dwm
-* st
+* (st)
 * dmenu
 
-The script will then compile every one of them after installing the missing dependancies :
+* linuxcnc
 
-*
-*
-*
-
-Once this is done, we can install linuxCNC.
-
-# How to proceed
+## Installation
 
 First, download debian 12 :
 https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
