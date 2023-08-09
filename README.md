@@ -73,4 +73,14 @@ The next step looks like this :
 ![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
 ![image9](
 
+Once this is done, you can enter your username and your password as requested.
+
+After logging in, you will install the git package by simply running :
+'''
+sudo apt install git
+'''
+And clone my repository :
+'''
 git clone https://github.com/heavymetalthings/RiceCNC.git
+'''
+
