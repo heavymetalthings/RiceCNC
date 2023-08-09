@@ -64,5 +64,13 @@ When you boot up the machine, select the usb stick (for me it's f12 to choose)
 The next step looks like this :
 
 ![image1](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-38.png)
+![image2](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-49.png)
+![image3](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-57.png)
+![image4](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-10.png)
+![image5](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-16.png)
+![image6](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-52.png)
+![image7](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-01.png)
+![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
+![image9](
 
 git clone https://github.com/heavymetalthings/RiceCNC.git
