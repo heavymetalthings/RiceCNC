@@ -53,6 +53,7 @@ sudo apt install lightdm -y
 cd /usr/share/xsessions/
 sudo rm -r lightdm-xsession.desktop
 
+cd ~/RiceCNC/
+sudo cp lightdm-xsession.desktop /usr/share/xsessions/
 
-
-
+sudo reboot
