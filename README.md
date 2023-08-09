@@ -1,3 +1,6 @@
+[![en](https://img.shields.io/badge/lang-français-red.svg)](https://github.com/heavymetalthings/RiceCNC/blob/main/README.fr.md)
+
+
 # RiceCNC
 Linuxcnc Rice - DWM
 
