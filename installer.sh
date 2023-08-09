@@ -72,5 +72,5 @@ sudo apt update -y
 sudo apt install brave-browser-nightly -y
 
 
-
+sudo reboot
 
