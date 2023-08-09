@@ -8,3 +8,10 @@ Ce répertoire vise à personnaliser une installation minimale de debian 12 pour
 
 L'environnement de bureau utilisé est DWM.
 
+## La petite histoire
+
+
+
+## Programmes installés
+
+## Installation
