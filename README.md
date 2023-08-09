@@ -81,6 +81,8 @@ Define your hostname (for simplicity, pick the same as your username) :
 
 ![image6](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-52.png)
 
+Leave the domain name blank :
+
 ![image7](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-01.png)
 
 ![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
