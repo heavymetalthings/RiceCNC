@@ -63,6 +63,6 @@ When you boot up the machine, select the usb stick (for me it's f12 to choose)
 
 The next step looks like this :
 
-![image1](/assets/images/Screenshot from 2023-08-09 18-55-38.png)
+![image1](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-38.png)
 
 git clone https://github.com/heavymetalthings/RiceCNC.git
