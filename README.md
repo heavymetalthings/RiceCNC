@@ -63,3 +63,5 @@ Flash it on a usb stick, using either :
 * Rufus
 * Balenaetcher
 if you are on windows
+
+git clone https://github.com/heavymetalthings/RiceCNC.git
