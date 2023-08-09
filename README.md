@@ -45,6 +45,7 @@ After the installation process, the script will install :
 * dmenu
 
 * linuxcnc
+* VSCodium to edit the config files and machinecode
 
 ## Installation
 
