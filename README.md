@@ -77,13 +77,11 @@ Once this is done, you can enter your username and your password as requested.
 
 After logging in, you will install the git package by simply running :
 
-'''
+```
 sudo apt install git
-'''
-
+```
 And clone my repository :
 
-'''
+```
 git clone https://github.com/heavymetalthings/RiceCNC.git
-'''
-
+```
