@@ -48,3 +48,11 @@ sudo apt update && sudo apt install codium -y
 sudo apt install linuxcnc-uspace linuxcnc-uspace-dev -y
 
 sudo apt install lightdm -y
+
+#remove the default xorg session and replace it with the dwm session file
+cd /usr/share/xsessions/
+sudo rm -r lightdm-xsession.desktop
+
+
+
+
