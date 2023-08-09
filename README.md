@@ -55,5 +55,14 @@ Flash it on a usb stick, using either :
 * Rufus
 * Balenaetcher
 if you are on windows
+* Fedora mediawriter
+* other
+if you are using linux already
+
+When you boot up the machine, select the usb stick (for me it's f12 to choose)
+
+The next step looks like this :
+
+![image1](/assets/images/Screenshot from 2023-08-09 18-55-38.png)
 
 git clone https://github.com/heavymetalthings/RiceCNC.git
