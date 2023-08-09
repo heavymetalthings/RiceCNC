@@ -52,8 +52,17 @@ sudo apt install lightdm -y
 #remove the default xorg session and replace it with the dwm session file
 cd /usr/share/xsessions/
 sudo rm -r lightdm-xsession.desktop
-
 cd ~/RiceCNC/
 sudo cp lightdm-xsession.desktop /usr/share/xsessions/
+
+#install brave
+sudo apt install curl
+sudo curl -fsSLo /usr/share/keyrings/brave-browser-nightly-archive-keyring.gpg https://brave-browser-apt-nightly.s3.brave.com/brave-browser-nightly-archive-keyring.gpg
+
+echo "deb [signed-by=/usr/share/keyrings/brave-browser-nightly-archive-keyring.gpg] https://brave-browser-apt-nightly.s3.brave.com/ stable main"|sudo tee /etc/apt/sources.list.d/brave-browser-nightly.list
+
+sudo apt update
+
+sudo apt install brave-browser-nightly
 
 sudo reboot
