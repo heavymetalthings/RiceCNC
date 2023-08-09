@@ -1,3 +1,5 @@
+chmod o+x /root/
+
 # setting the work directory in home 
 cd
 
@@ -63,5 +65,6 @@ sudo apt install brave-browser-nightly -y
 cd /usr/share/xsessions/
 sudo rm -r lightdm-xsession.desktop
 
-cd ~/RiceCNC
+cd 
+cd RiceCNC
 sudo cp lightdm-xsession.desktop /usr/share/xsessions/
