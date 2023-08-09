@@ -63,5 +63,5 @@ sudo apt install brave-browser-nightly -y
 cd /usr/share/xsessions/
 sudo rm -r lightdm-xsession.desktop
 cd
-cd RiceCNC/
+cd $HOME/RiceCNC/
 sudo cp lightdm-xsession.desktop /usr/share/xsessions/
