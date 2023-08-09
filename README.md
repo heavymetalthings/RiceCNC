@@ -85,3 +85,7 @@ And clone my repository :
 ```
 git clone https://github.com/heavymetalthings/RiceCNC.git
 ```
+Once the repo is cloned, simply run the installer :
+```
+sudo sh 
+```
