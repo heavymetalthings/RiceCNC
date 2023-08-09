@@ -74,10 +74,9 @@ sudo apt install brave-browser-nightly -y
 
 #access and modification of the var in the lightdm config file
 cd /etc/lightdm/
-sed -i 's//autologin-user$USER /g' lightdm.conf
+#sed -i 's/# autologin-user = User to log in with /autologin-user=$USER /g' lightdm.conf
+#sed -i 's/# autologin-user = User to log in with /autologin /g' lightdm.conf
 
-
-sed -i 's/old-text/new-text/g' input.txt
 
 
 echo "$USER"
