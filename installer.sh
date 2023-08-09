@@ -85,7 +85,7 @@ cd */
 ls
 nomUtilisateur=$PWD
 
-echo nomUtilisateur
+echo $nomUtilisateur
 
 
 #echo "$USER"
