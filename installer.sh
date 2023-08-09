@@ -62,5 +62,6 @@ sudo apt install brave-browser-nightly -y
 #remove the default xorg session and replace it with the dwm session file
 cd /usr/share/xsessions/
 sudo rm -r lightdm-xsession.desktop
-cd ~/RiceCNC/
+cd
+cd RiceCNC/
 sudo cp lightdm-xsession.desktop /usr/share/xsessions/
