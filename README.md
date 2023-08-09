@@ -77,10 +77,14 @@ Select your keyboard layout
 
 ![image4](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-10.png)
 
-![image5](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-16.png)
+Define your hostname (for simplicity, pick the same as your username) :
+
 ![image6](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-52.png)
+
 ![image7](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-01.png)
+
 ![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
+
 ![image9](
 
 Once this is done, you can enter your username and your password as requested.
