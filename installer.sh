@@ -83,8 +83,4 @@ sudo sed -i 's/# autologin-user = User to log in with by default (overrides auto
 sudo sed -i 's/# autologin-user-timeout = Number of seconds to wait before loading default user/autologin-user-timeout = 0/g' lightdm.conf
 
 
-
-
-#echo "$USER"
-
-
+#sudo reboot 
