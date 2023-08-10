@@ -74,16 +74,11 @@ sudo apt install brave-browser-nightly -y
 
 cd ..
 cd /home
-ls
 cd */
-ls
 nomUtilisateur=${PWD##*/} 
-
-echo $nomUtilisateur
 
 #access and modification of the var in the lightdm config file
 cd /etc/lightdm/
-#sed -i 's/# autologin-user = User to log in with /autologin-user=$USER /g' lightdm.conf
 sudo sed -i 's/# autologin-user = User to log in with by default (overrides autologin-guest)/autologin-user = "$nomUtilisateur"/g' lightdm.conf
 sudo sed -i 's/# autologin-user-timeout = Number of seconds to wait before loading default user/autologin-user-timeout = 0/g' lightdm.conf
 
