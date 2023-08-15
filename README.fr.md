@@ -87,6 +87,10 @@ https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-ne
 
 2) Installez git à l'aide de la commande suivante :
 
+  ```
+  sudo apt install git
+  ```
+
 3) Ensuite, téléchargez mon repo github via cette commande :
 
 4) 
