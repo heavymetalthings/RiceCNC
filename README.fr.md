@@ -92,5 +92,11 @@ https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-ne
     ```
 
 3) Ensuite, téléchargez mon repo github via cette commande :
-
-4) 
+    ```
+    git clone https://github.com/heavymetalthings/RiceCNC.git
+    ```
+4) Lorsque le repo est téléchargé, exécutez le petit installeur simplement avec :
+    ```
+    sudo sh RiceCNC/install.sh
+    ```
+6) 
