@@ -57,9 +57,27 @@ https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-ne
 
 17) Sélectionnez "finish and write changes to disk"
 
-18) Sélectionnez "yes"
+18) Sélectionnez "Yes"
 
-19) Sélectionnez "no"
+19) Sélectionnez "No"
+
+20) Sélectionnez le pays depuis lequel vous allez télécharger debian, en général, le plus proche de vous
+
+21) N'entrez pas de d'informations de proxy
+
+22) Selectionnez "No" pour l'enquête
+
+23) Décochez soigneusement :
+
+    * Debian desktop environment
+    * Gnome
+    Et gardez coché :
+    * standard system utilities 
+24) Sélectionnez "Yes" pour installer le boot loader sur le disque principal
+
+25) Sélectionnez le disque (pas manuellement)
+
+26) Cliquez sur "Continue" pour redémarrer et retirez le média d'installation
 
 
 
