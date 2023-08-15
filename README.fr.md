@@ -27,11 +27,39 @@ https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-ne
   * Fedora media writer
   * Autre selon le système d'exploitation utilisé
 
-3) Insérez le média dans l'ordinateur et démarrer, puis choisir le média dans l'ordre de boot Esc, F2, F10, ou F12
+3) Insérez le média dans l'ordinateur et démarrez-le, puis choisir le média dans l'ordre de boot Esc, F2, F10, ou F12
 
 4) Puis sélectionner "graphical install" ou "install".
 
 5) Sélectionnez la langue "English"
+
+6) Sélectionnez le fuseau horaire
+
+7) Sélectionnez le layout du clavier utilisé
+
+8) Entrez le nom qui apparaîtra sur le réseau (par simplicité identique au nom d'utilisateur que vous choisirez)
+
+9) Pas besoin de nom de domaine, laissez la case vide
+
+10) N'entrez pas de mot de passe root
+
+11) Entrez votre nom d'utilisateur, identique au point 8)
+
+12) Idem qu'en 11)
+
+13) Créez votre mot de passe, identique au nom d'utilisateur
+
+14) Sélectionnez "Guided - use entire disk"
+
+15) Sélectionnez le disque dur visé
+
+16) Sélectionnez "All files in one partition"
+
+17) Sélectionnez "finish and write changes to disk"
+
+18) Sélectionnez "yes"
+
+19) Sélectionnez "no"
 
 
 
