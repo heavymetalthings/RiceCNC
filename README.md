@@ -64,33 +64,17 @@ When you boot up the machine, select the usb stick (for me it's f12 to choose)
 
 The next step looks like this :
 
-![image1](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-38.png)
-
 Select the language (english) :
-
-![image2](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-49.png)
 
 Select your location :
 
-![image3](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-55-57.png)
-
 Select your keyboard layout
-
-![image4](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-10.png)
 
 Define your hostname (for simplicity, pick the same as your username) :
 
-![image6](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-56-52.png)
-
 Leave the domain name blank :
 
-![image7](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-01.png)
-
 Don't put any root password, it is not of any use in this context :
-
-![image8](https://github.com/heavymetalthings/RiceCNC/blob/main/assets/images/Screenshot%20from%202023-08-09%2018-57-25.png)
-
-![image9](
 
 Once this is done, you can enter your username and your password as requested.
 
