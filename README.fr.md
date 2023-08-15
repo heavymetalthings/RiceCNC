@@ -83,5 +83,10 @@ https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-ne
 
 ## Installation des logiciels
 
-Une fois que votre machine a redémarré, entrez votre nom d'utilisateur, entrée, puis mot de passe et entrée. Vous serez ainsi loggé dans votre session.
+1) Une fois que votre machine a redémarré, entrez votre nom d'utilisateur, entrée, puis mot de passe et entrée. Vous serez ainsi loggé dans votre session.
 
+2) Installez git à l'aide de la commande suivante :
+
+3) Ensuite, téléchargez mon repo github via cette commande :
+
+4) 
