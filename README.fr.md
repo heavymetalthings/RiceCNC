@@ -14,7 +14,18 @@ L'environnement de bureau utilisé est DWM.
 
 ## Programmes installés
 
-## Installation
+## Installation de debian 12
 
-Premièrement, téléchargez l'ISO de debian 12 : https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
+Premièrement, téléchargez l'ISO (image disque) de debian 12 : 
+
+https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
+
+Gravez un usb ou disque, en utilisant un des logiciels suivants :
+
+* Rufus (windows)
+* Balenaetcher
+* Fedora media writer
+* Autre selon le système d'exploitation utilisé
+
+## Installation des logiciels
 
