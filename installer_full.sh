@@ -56,5 +56,10 @@ cd home
 cd */
 cd RiceCNC/assets/images
 feh --bg-fill background.jpg
+cd 
+cd ..
+cd home
+cd */
+cd RiceCNC
 
-#sudo reboot 
+#sudo reboot
