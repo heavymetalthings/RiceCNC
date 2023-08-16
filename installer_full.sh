@@ -48,6 +48,6 @@ sudo apt update -y
 
 sudo apt install brave-browser-nightly -y
 
-sudo apt install freecad conky -y
+sudo apt install freecad conky feh -y
 
 sudo reboot 
