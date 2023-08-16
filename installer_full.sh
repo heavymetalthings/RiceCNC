@@ -58,4 +58,10 @@ cd ..
 
 ls
 
+cd home
+cd */
+ls
+cd RiceCNC/
+ls
+
 #sudo reboot 
