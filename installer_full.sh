@@ -55,7 +55,10 @@ cd ..
 cd home
 cd */
 cd RiceCNC/assets/images
+
 feh --bg-fill background.jpg
+sudo cp background.jpg /etc/lightdm/
+
 cd 
 cd ..
 cd home
@@ -65,6 +68,7 @@ tar -xvf Midnight.tar.xz
 sudo cp -r Midnight /usr/share/themes/Midnight
 cd
 cd ..
-ls
+
+
 
 #sudo reboot
