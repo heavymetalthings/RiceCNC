@@ -1,16 +1,13 @@
-chmod o+x /root/
+#chmod o+x /root/
 
 cd
 
-# installing the bare minimum (which is bloat for some people)
-sudo apt install xorg screen build-essential neofetch btop nano -y
+sudo apt install xorg screen build-essential -y
 
-# missing dependancies for dwm
 sudo apt install libx11-dev -y
 sudo apt install libxft-dev -y
 sudo apt install libxinerama-dev -y
 
-# cloning dwm, st and 
 mkdir dev 
 cd dev
 git clone https://git.suckless.org/dwm
@@ -80,5 +77,7 @@ sudo apt install brave-browser-nightly -y
 #sudo sed -i 's/# autologin-user = User to log in with by default (overrides autologin-guest)/$tempVar/g' lightdm.conf
 #sudo sed -i 's/# autologin-user-timeout = Number of seconds to wait before loading default user/autologin-user-timeout = 0/g' lightdm.conf
 
+
+sudo apt install neofetch btop nano -y
 
 #sudo reboot 
