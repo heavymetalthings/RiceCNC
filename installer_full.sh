@@ -61,7 +61,7 @@ ls
 cd home
 cd */
 ls
-cd RiceCNC/
-ls
+cd RiceCNC/assets/images
+feh --bg-fill background.jpg
 
 #sudo reboot 
