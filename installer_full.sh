@@ -67,7 +67,7 @@ cd RiceCNC
 tar -xvf Midnight.tar.xz
 sudo cp -r Midnight /usr/share/themes/Midnight
 
-sudo cp lightdm.conf /etc/lightdm/slick-greeter.conf
+sudo cp lightdm-gtk-greeter.conf /etc/lightdm/lightdm-gtk-greeter.conf
 
 cd
 cd ..
