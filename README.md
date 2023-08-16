@@ -5,11 +5,9 @@
 Linuxcnc Rice - DWM - because rice is tasty
 
 ## Overview
-This repo aims at ricing a debian 12 minimal install for a linuxcnc install
+This repo aims at ricing a debian 12 minimal install for a linuxcnc install.
 
-The DE used is DWM
-
-The work is heavily inspired by this video :
+The DE used is DWM.
 
 ## Backsory 
 
