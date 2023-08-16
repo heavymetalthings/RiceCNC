@@ -1,4 +1,3 @@
-#chmod o+x /root/
 cd
 sudo apt install xorg screen build-essential -y
 sudo apt install libx11-dev -y
@@ -49,6 +48,6 @@ sudo apt update -y
 
 sudo apt install brave-browser-nightly -y
 
-sudo apt install freecad -y
+sudo apt install freecad conky -y
 
-#sudo reboot 
+sudo reboot 
