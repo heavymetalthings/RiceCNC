@@ -54,4 +54,8 @@ cd
 
 ls
 
+cd ..
+
+ls
+
 #sudo reboot 
