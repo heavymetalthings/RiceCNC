@@ -49,4 +49,6 @@ sudo apt update -y
 
 sudo apt install brave-browser-nightly -y
 
+sudo apt install freecad -y
+
 #sudo reboot 
