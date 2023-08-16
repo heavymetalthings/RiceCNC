@@ -51,16 +51,9 @@ sudo apt install brave-browser-nightly -y
 sudo apt install freecad conky feh -y
 
 cd 
-
-ls
-
 cd ..
-
-ls
-
 cd home
 cd */
-ls
 cd RiceCNC/assets/images
 feh --bg-fill background.jpg
 
