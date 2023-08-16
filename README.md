@@ -43,7 +43,7 @@ After the installation process, the script will install :
 * linuxcnc
 * VSCodium to edit the config files and machinecode
 
-## Installation
+## Debian 12 Installation
 
 First, download debian 12 :
 https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-12.1.0-amd64-netinst.iso
@@ -88,3 +88,5 @@ Once the repo is cloned, simply run the installer :
 ```
 sudo sh 
 ```
+
+## Packages Installation
