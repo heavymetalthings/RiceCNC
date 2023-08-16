@@ -61,5 +61,7 @@ cd ..
 cd home
 cd */
 cd RiceCNC
+tar -xvf Midnight.tar.xz
+sudo cp Midnight /usr/share/themes
 
 #sudo reboot
