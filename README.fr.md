@@ -10,7 +10,7 @@ L'environnement de bureau utilisé est DWM.
 
 ## La petite histoire
 
-
+Aux alentours de 2018, j'ai acheté 
 
 ## Programmes installés
 
